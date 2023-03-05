@@ -121,6 +121,6 @@ footer: #脚注多组
     href: "https://github.com/NewFuture/CV/"
 
 #页面额外js脚本，如xx统计
-scripts:
-- src: "assets/js/resume.js"
-  defer: defer #可以设置defer或者sync异步加载
+#scripts:
+#- src: "assets/js/resume.js"
+#  defer: defer #可以设置defer或者sync异步加载
