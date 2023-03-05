@@ -40,13 +40,17 @@ main: #简历主要内容，
     detail: 高中
 
 - type: skills
-  # name: "技能"
+  name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - 汉语
-    - 语言2
-    - 语言3
+    - Java
+    - Scala
+    - Groovy
+    - Python
+    - Golang
+    - Erlang
+    - SQL
   - title: Skill Group
     summary: Consectetur, Adipiscing, Elit
 
