@@ -15,8 +15,8 @@ contact: #联系方式连接等3~5行
 - text: "1234567890"
   href: 'tel:1234567890'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
+- text: "kennykong.github.io"
+  href: 'https://kennykong.github.io'
   icon: 'icons/web.svg'
 - text: "GitHubID"
   href: 'https://github.com/NewFuture'
@@ -30,10 +30,10 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 大学名称
-    duration: "2011年x月 - 2015年"
-    sub: 地点或学历
-    detail: 专业或者简短说明
+  - title: 华北电力大学
+    duration: "2001年9月 - 2005年6月"
+    sub: 本科
+    detail: 信息管理与系统
   - title: Your University
     duration: Aug 2007 - Jun 2011
     sub: Ut enim ad minim veniam
