@@ -54,7 +54,7 @@ main: #简历主要内容，
     - Lisp
 
   - title: Java
-    summary: 精通java编程，掌握常用的数据结构和算法，容器，多线程等；熟悉jvm运行原理，了解byte code运行原理。<br/>精通常用J2EE开发框架，如，SpringBoot，Mybatis等；微服务框架：SpringCloud体系， Dubbo体系等。
+    summary: 精通java编程，掌握常用的数据结构和算法，容器，多线程，lambda表达式等；熟悉jvm运行原理，了解byte code运行原理。<br/>精通常用J2EE开发框架，如，SpringBoot，Mybatis等；微服务框架：SpringCloud体系， Dubbo体系等。
     
   - title: Linux
     summary: 熟悉Linux常用命令，熟练使用vim，使用Linux搭建服务器，编译构建Linux内核，裁切定制Linux系统，排查系统问题。
@@ -68,22 +68,22 @@ main: #简历主要内容，
       - Raft
       - 一致性Hash
       - CAP原理
-      - CRDTs（Commutative Replicated Data Types）
+      - CRDTs（Conflict-free Replicated Data Types）
 
   - title: 领域建模
     summary: 多年服务化构建经验，参与过电商，医疗，金融领域的建模。熟练使用UML，ER关系，流程，用例等方式建模。在实践中构建出一套自己的建模方法论——基于自然语言描述的建模，基于抽象概念的建模，基于DSL（领域特定语言）的建模。
 
   - title: 函数式编程
-    summary: 从《计算机程序的构造和解释》（简称SICP）开始接触Lisp语言，了解到函数式的强大抽象能力；后又接触带类型的函数式编程，如Haskell，Scala的Cats等库，并在实践中应用。
+    summary: 从《计算机程序的构造和解释》（简称SICP）开始接触Lisp语言，了解到函数式的强大抽象能力；后又接触到带类型的函数式编程，如Haskell，Scala的Cats等库，并在实践中加以应用。
 
   - title: 金融风控
-    summary:
+    summary: 主导金融风控引擎的设计与实现，结合了领域建模的积累和函数式编程原理，设计出业内先进的金融风控引擎，主要特点有：风控模型可灵活定制，规则界面可视化，部署迅速，可回测，高并发，单笔交易计算时延低。
 
   - title: 大数据和人工智能
-    summary:
+    summary: 参与数仓的建设，交易指标的监控平台，用户画像，用户行为的数据收集与分析平台，反欺诈平台。用TensorFlow做一些深度学习的数据训练。
 
   - title: 量化
-    summary:
+    summary: 了解海龟交易算法的Python实现，了解vnpy的源代码，会运行回测，调整交易策略。
 
 - type: experience
   name: 经验
