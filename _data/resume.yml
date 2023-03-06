@@ -68,13 +68,13 @@ main: #简历主要内容，
       - Raft
       - 一致性Hash
       - CAP原理
-      - CRDTs
+      - CRDTs（Commutative Replicated Data Types）
 
   - title: 领域建模
-    summary:
+    summary: 多年服务化构建经验，参与过电商，医疗，金融领域的建模。熟练使用UML，ER关系，流程，用例等方式建模。在实践中构建出一套自己的建模方法论——基于自然语言描述的建模，基于抽象概念的建模，基于DSL（领域特定语言）的建模。
 
   - title: 函数式编程
-    summary:
+    summary: 从《计算机程序的构造和解释》（简称SICP）开始接触Lisp语言，了解到函数式的强大抽象能力；后又接触带类型的函数式编程，如Haskell，Scala的Cats等库，并在实践中应用。
 
   - title: 金融风控
     summary:
