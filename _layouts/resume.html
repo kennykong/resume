@@ -124,12 +124,6 @@ layout: default
                   <span class="item">{{ item }}</span>
                 {% endfor %} 
               </p>
-            {% elsif content.list %}
-              <ul class="list">
-                {% for li in content.list %}
-                  <li class="text">{{ li }}</li>
-                {% endfor %}
-              </ul>
             {% elsif content.summary %}
               <p class="summary">{{ content.summary }}</p>
             {% endif %}
