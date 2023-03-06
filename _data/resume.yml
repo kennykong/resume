@@ -53,8 +53,10 @@ main: #简历主要内容，
     - SQL
     - Lisp
   - title: Java
-    summary: 精通java编程，掌握常用的数据结构和算法，容器，多线程等。
-精通常用J2EE开发框架，如，SpringBoot，Mybatis等；微服务框架：SpringCloud体系， Dubbo体系等。
+    summary: 精通java编程，掌握常用的数据结构和算法，容器，多线程等。精通常用J2EE开发框架，如，SpringBoot，Mybatis等；微服务框架：SpringCloud体系， Dubbo体系等。
+    list:
+    - 精通java编程，掌握常用的数据结构和算法，容器，多线程等。
+    - 精通常用J2EE开发框架，如，SpringBoot，Mybatis等；微服务框架：SpringCloud体系， Dubbo体系等。
 
 - type: experience
   name: 经验
