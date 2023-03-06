@@ -30,10 +30,10 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 华北电力大学
+  - title: 华北电力大学（211）
     duration: "2001年9月 - 2005年7月"
     sub: 本科，学士学位
-    detail: 信息管理与系统
+    detail: 信息管理与信息系统
   - title: 常州市第三中学
     duration: 1998年9月 - 2001年7月
     sub: 高中
