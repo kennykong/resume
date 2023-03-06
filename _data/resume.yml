@@ -52,12 +52,36 @@ main: #简历主要内容，
     - Erlang
     - SQL
     - Lisp
+
   - title: Java
     summary: 精通java编程，掌握常用的数据结构和算法，容器，多线程等；熟悉jvm运行原理，了解byte code运行原理。<br/>精通常用J2EE开发框架，如，SpringBoot，Mybatis等；微服务框架：SpringCloud体系， Dubbo体系等。
     
-  - title: Java
-    summary: 精通java编程，掌握常用的数据结构和算法，容器，多线程等。<br/><br/>精通常用J2EE开发框架，如，SpringBoot，Mybatis等；微服务框架：SpringCloud体系， Dubbo体系等。
+  - title: Linux
+    summary: 熟悉Linux常用命令，熟练使用vim，使用Linux搭建服务器，编译构建Linux内核，裁切定制Linux系统，排查系统问题。
     
+  - title: 高并发和性能优化
+    summary: 多年构建分布式系统经验，曾开发淘宝秒杀系统。通过开源工具排查内存，网络等问题，给出优化方案。
+    items: #itmems 可以小块的方式显示
+      - Paxos
+      - Raft
+      - 一致性Hash
+      - CAP原理
+      - CRDTs
+
+  - title: 领域建模
+    summary:
+
+  - title: 函数式编程
+    summary:
+
+  - title: 金融风控
+    summary:
+
+  - title: 大数据和人工智能
+    summary:
+
+  - title: 量化
+    summary:
 
 - type: experience
   name: 经验
