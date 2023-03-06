@@ -34,10 +34,10 @@ main: #简历主要内容，
     duration: "2001年9月 - 2005年7月"
     sub: 本科，学士学位
     detail: 信息管理与系统
-  - title: 常州第三中学
+  - title: 常州市第三中学
     duration: 1998年9月 - 2001年7月
     sub: 高中
-    detail: 高中
+    detail: 市重点高中
 
 - type: skills
   name: "技能"
