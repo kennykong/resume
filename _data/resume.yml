@@ -4,7 +4,7 @@
 title: "孔祥毅的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "孔祥毅"
-jobtitle: "研发总监" #可空不显示
+jobtitle: "研发总监，技术专家，架构师" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
