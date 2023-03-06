@@ -51,6 +51,7 @@ main: #简历主要内容，
     - Golang
     - Erlang
     - SQL
+    - Lisp
   - title: Skill Group
     summary: Consectetur, Adipiscing, Elit
 
