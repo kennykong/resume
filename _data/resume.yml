@@ -178,15 +178,6 @@ main: #简历主要内容，
     summary: 外包项目
     detail: 待完善。。。
 
-  - title: 高级开发
-    sub: 光溪软件
-    duration: "2008年04月 - 2009年01月"
-    tags:
-      - 欧美
-      - 外包
-    summary: 外包项目
-    detail: 待完善。。。
-
   - title: 技术员
     sub: 常州热电公司
     duration: "2005年10月 - 2008年03月"
