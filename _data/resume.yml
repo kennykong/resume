@@ -88,8 +88,8 @@ main: #简历主要内容，
 - type: experience
   name: 经验
   content:
-  - title: 技术合伙人CTO
-    sub: 泽青信息
+  - title: 泽青信息
+    sub: 技术合伙人CTO
     duration: "2022年06月 - 今"
     tags:
     - 量化
@@ -99,8 +99,8 @@ main: #简历主要内容，
     # open: open
     #可以设置open默认展开
 
-  - title: 技术专家
-    sub: 微创软件
+  - title: 微创软件
+    sub: 技术专家
     duration: "2020年04月 - 2022年04月"
     tags:
     - 物联网
@@ -111,8 +111,8 @@ main: #简历主要内容，
     #open: open
     #可以设置open默认展开
 
-  - title: 技术负责人
-    sub: 禾观科技
+  - title: 禾观科技
+    sub: 技术负责人
     duration: "2018年09月 - 2019年12月"
     tags:
     - 数据
@@ -120,8 +120,8 @@ main: #简历主要内容，
     summary: 数据驱动的印度出海电商
     detail: 待完善。。。
 
-  - title: 技术总监
-    sub: 分期管家
+  - title: 分期管家
+    sub: 技术总监
     duration: "2016年12月 - 2018年8月"
     tags:
       - 数据
@@ -131,8 +131,8 @@ main: #简历主要内容，
     summary: P2p小额贷款的风控技术
     detail: 待完善。。。
 
-  - title: 架构师
-    sub: 华立集团
+  - title: 华立集团
+    sub: 架构师
     duration: "2015年03月 - 2016年12月"
     tags:
       - 医疗
@@ -140,8 +140,8 @@ main: #简历主要内容，
     summary: 医疗模式探索
     detail: 待完善。。。
 
-  - title: 资深研发
-    sub: 蘑菇街
+  - title: 蘑菇街
+    sub: 资深研发
     duration: "2014年09月 - 2015年03月"
     tags:
       - 数据
@@ -149,8 +149,8 @@ main: #简历主要内容，
     summary: 数据平台中间件
     detail: 待完善。。。
 
-  - title: 架构师
-    sub: 通策医疗
+  - title: 通策医疗
+    sub: 架构师
     duration: "2013年01月 - 2014年09月"
     tags:
       - 医疗
@@ -158,8 +158,8 @@ main: #简历主要内容，
     summary: 服务化Saas云建设
     detail: 待完善。。。
 
-  - title: 高级开发
-    sub: 淘宝网
+  - title: 淘宝网
+    sub: 高级开发
     duration: "2009年04月 - 2012年12月"
     tags:
       - 电商
@@ -169,8 +169,8 @@ main: #简历主要内容，
     summary: 电商Saas云建设
     detail: 待完善。。。
 
-  - title: 高级开发
-    sub: 光溪软件
+  - title: 光溪软件
+    sub: 高级开发
     duration: "2008年04月 - 2009年01月"
     tags:
       - 欧美
@@ -178,8 +178,8 @@ main: #简历主要内容，
     summary: 外包项目
     detail: 待完善。。。
 
-  - title: 技术员
-    sub: 常州热电
+  - title: 常州热电
+    sub: 技术员
     duration: "2005年10月 - 2008年03月"
     tags:
       - 国企
