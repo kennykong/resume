@@ -197,6 +197,7 @@ main: #简历主要内容，
       - 数据分析
       - 策略优化
     duration: 2022年07月 - 今
+    summary: 量化交易平台
     detail:
       md: _data/projects/2023_quantitative.md
     sub: 创建者
