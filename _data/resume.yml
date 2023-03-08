@@ -200,7 +200,7 @@ main: #简历主要内容，
     summary: 量化交易平台
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 创建者
+    sub: 负责人
 
   - title: 大数据用户画像
     tags:
@@ -211,7 +211,7 @@ main: #简历主要内容，
     summary: 大数据用户画像
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 创建者
+    sub: 负责人
 
   - title: 交易所
     tags:
@@ -223,7 +223,7 @@ main: #简历主要内容，
     summary: 交易所
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 创建者
+    sub: 负责人
 
   - title: 大数据反欺诈
     tags:
@@ -233,7 +233,7 @@ main: #简历主要内容，
     summary: 大数据反欺诈
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 创建者
+    sub: 负责人
 
   - title: 风控规则引擎
     tags:
@@ -243,7 +243,7 @@ main: #简历主要内容，
     summary: 风控规则引擎
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 创建者
+    sub: 负责人
 
   - title: 医疗服务化
     tags:
@@ -255,7 +255,7 @@ main: #简历主要内容，
     summary: 医疗服务化
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 创建者
+    sub: 负责人
 
   - title: 淘宝秒杀
     tags:
@@ -268,7 +268,7 @@ main: #简历主要内容，
     summary: 淘宝秒杀
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 创建者
+    sub: 负责人
 #可继续添加更多内容
 
 #others 其他简略内容(列表)
