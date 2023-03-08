@@ -194,7 +194,8 @@ main: #简历主要内容，
   - title: 量化交易平台
     tags:
       - 量化
-      - 数据
+      - 数据分析
+      - 策略优化
     duration: 2022年07月 - 今
     detail:
       md: _data/projects/2023_quantitative.md
