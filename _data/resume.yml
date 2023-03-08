@@ -191,16 +191,77 @@ main: #简历主要内容，
 - type: projects
   name: 项目
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
+  - title: 量化交易平台
+    tags:
+      - 量化
+      - 数据
+    duration: 2022年07月 - 今
     detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
-   #可继续添加更多内容
+      md: _data/projects/2023_quantitative.md
+    sub: 创建者
+
+  - title: 大数据用户画像
+    tags:
+      - 用户画像
+      - 深度学习
+      - 数据挖掘
+    duration: 2018年10月 - 2020年
+    detail:
+      md: _data/projects/2023_quantitative.md
+    sub: 创建者
+
+  - title: 交易所
+    tags:
+      - 虚拟币
+      - 撮合交易
+      - 事件溯源
+      - 日均线
+    duration: 2018年3月 - 2019年
+    detail:
+      md: _data/projects/2023_quantitative.md
+    sub: 创建者
+
+  - title: 大数据反欺诈
+    tags:
+      - 关系图谱
+      - 数据挖掘
+    duration: 2017年8月 - 2019年
+    detail:
+      md: _data/projects/2023_quantitative.md
+    sub: 创建者
+
+  - title: 风控规则引擎
+    tags:
+      - 函数式
+      - 动态脚本
+    duration: 2016年12月 - 2019年
+    detail:
+      md: _data/projects/2023_quantitative.md
+    sub: 创建者
+
+  - title: 医疗服务化
+    tags:
+      - 服务化SOA
+      - Dubbo
+      - 微服务
+      - 业务拆分
+    duration: 2013年01月 - 2014年
+    detail:
+      md: _data/projects/2023_quantitative.md
+    sub: 创建者
+
+  - title: 淘宝秒杀
+    tags:
+      - 秒杀
+      - 高并发
+      - HSF
+      - 分布式缓存
+      - 最终一致性
+    duration: 2012年01月 - 2013年
+    detail:
+      md: _data/projects/2023_quantitative.md
+    sub: 创建者
+#可继续添加更多内容
 
 #others 其他简略内容(列表)
 others: #其他列表显示
