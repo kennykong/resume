@@ -89,7 +89,7 @@ main: #简历主要内容，
   name: 经验
   content:
   - title: 技术合伙人CTO
-    sub: 杭州泽青信息科技有限公司
+    sub: 泽青信息
     duration: "2022年06月 - 今"
     tags:
     - 量化
