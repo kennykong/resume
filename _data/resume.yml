@@ -88,34 +88,114 @@ main: #简历主要内容，
 - type: experience
   name: 经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 技术合伙人CTO
+    sub: 杭州泽青信息科技有限公司
+    duration: "2022年06月 - 今"
     tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+    - 量化
+    - 数据
+    summary: 数据分析，量化投资
+    detail: 数据分析，量化投资
     # open: open
     #可以设置open默认展开
 
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 技术专家
+    sub: 微创软件
+    duration: "2020年04月 - 2022年04月"
     tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
+    - 物联网
+    - 汽车
+    summary: 阿里巴巴智慧物业，保时捷中国
     detail:
-      md: markdown.md
+      md: _data/experiences/2022——wicresoft.md
     open: open
     #可以设置open默认展开
 
-  - title: Job Title
-    sub: Your 2nd, Inc.
-    duration: Apr 2013 - Mar 2016
+  - title: 技术负责人
+    sub: 杭州禾观科技有限公司
+    duration: "2018年09月 - 2019年12月"
     tags:
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - 数据
+    - 出海电商
+    summary: 数据驱动的印度出海电商
+    detail: 待完善。。。
+
+  - title: 技术总监
+    sub: 分期管家
+    duration: "2016年12月 - 2018年8月"
+    tags:
+      - 数据
+      - 风控
+      - 小贷
+      - 金融
+    summary: P2p小额贷款的风控技术
+    detail: 待完善。。。
+
+  - title: 架构师
+    sub: 华立集团
+    duration: "2015年03月 - 2016年12月"
+    tags:
+      - 医疗
+      - 创新
+    summary: 医疗模式探索
+    detail: 待完善。。。
+
+  - title: 资深研发
+    sub: 蘑菇街
+    duration: "2014年09月 - 2015年03月"
+    tags:
+      - 数据
+      - 电商
+    summary: 数据平台中间件
+    detail: 待完善。。。
+
+  - title: 架构师
+    sub: 通策医疗
+    duration: "2013年01月 - 2014年09月"
+    tags:
+      - 医疗
+      - 服务化
+    summary: 服务化Saas云建设
+    detail: 待完善。。。
+
+  - title: 高级开发
+    sub: 淘宝网
+    duration: "2009年04月 - 2012年12月"
+    tags:
+      - 电商
+      - 中间件
+      - 秒杀
+      - 运营平台
+    summary: 电商Saas云建设
+    detail: 待完善。。。
+
+  - title: 高级开发
+    sub: 光溪软件
+    duration: "2008年04月 - 2009年01月"
+    tags:
+      - 欧美
+      - 外包
+    summary: 外包项目
+    detail: 待完善。。。
+
+  - title: 高级开发
+    sub: 光溪软件
+    duration: "2008年04月 - 2009年01月"
+    tags:
+      - 欧美
+      - 外包
+    summary: 外包项目
+    detail: 待完善。。。
+
+  - title: 技术员
+    sub: 常州热电公司
+    duration: "2005年10月 - 2008年03月"
+    tags:
+      - 国企
+      - 系统维护
+    summary: 信息系统维护
+    detail: 待完善。。。
+
 
 - type: projects
   name: 项目
