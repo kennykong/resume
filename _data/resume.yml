@@ -104,7 +104,7 @@ main: #简历主要内容，
       - 标签
     summary: 职务或者工作总结(自动折叠)
     detail:
-      md: README.md
+      md: markdown.md
     open: open
     #可以设置open默认展开
   - title: Job Title
