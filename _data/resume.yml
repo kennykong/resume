@@ -208,6 +208,7 @@ main: #简历主要内容，
       - 深度学习
       - 数据挖掘
     duration: 2018年10月 - 2020年
+    summary: 大数据用户画像
     detail:
       md: _data/projects/2023_quantitative.md
     sub: 创建者
@@ -219,6 +220,7 @@ main: #简历主要内容，
       - 事件溯源
       - 日均线
     duration: 2018年3月 - 2019年
+    summary: 交易所
     detail:
       md: _data/projects/2023_quantitative.md
     sub: 创建者
@@ -228,6 +230,7 @@ main: #简历主要内容，
       - 关系图谱
       - 数据挖掘
     duration: 2017年8月 - 2019年
+    summary: 大数据反欺诈
     detail:
       md: _data/projects/2023_quantitative.md
     sub: 创建者
@@ -237,6 +240,7 @@ main: #简历主要内容，
       - 函数式
       - 动态脚本
     duration: 2016年12月 - 2019年
+    summary: 风控规则引擎
     detail:
       md: _data/projects/2023_quantitative.md
     sub: 创建者
@@ -248,6 +252,7 @@ main: #简历主要内容，
       - 微服务
       - 业务拆分
     duration: 2013年01月 - 2014年
+    summary: 医疗服务化
     detail:
       md: _data/projects/2023_quantitative.md
     sub: 创建者
@@ -260,6 +265,7 @@ main: #简历主要内容，
       - 分布式缓存
       - 最终一致性
     duration: 2012年01月 - 2013年
+    summary: 淘宝秒杀
     detail:
       md: _data/projects/2023_quantitative.md
     sub: 创建者
