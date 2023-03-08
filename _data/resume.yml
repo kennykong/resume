@@ -107,7 +107,7 @@ main: #简历主要内容，
     - 汽车
     summary: 阿里巴巴智慧物业，保时捷中国
     detail:
-      md: _data/experiences/2022——wicresoft.md
+      md: _data/experiences/2022_wicresoft.md
     open: open
     #可以设置open默认展开
 
