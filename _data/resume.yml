@@ -97,16 +97,18 @@ main: #简历主要内容，
     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
+
   - title: 职位
     sub: 某某公司
     duration: "xxxx年xx月 - yyyy年yy月"
     tags:
-      - 标签
+    - 标签
     summary: 职务或者工作总结(自动折叠)
     detail:
       md: markdown.md
     open: open
     #可以设置open默认展开
+
   - title: Job Title
     sub: Your 2nd, Inc.
     duration: Apr 2013 - Mar 2016
@@ -162,6 +164,6 @@ footer: #脚注多组
     href: "https://kennykong.github.io/resume/"
 
 #页面额外js脚本，如xx统计
-scripts:
+#scripts:
 #- src: "assets/js/resume.js"
 #  defer: defer #可以设置defer或者sync异步加载
