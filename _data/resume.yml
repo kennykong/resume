@@ -118,7 +118,8 @@ main: #简历主要内容，
     - 数据
     - 出海电商
     summary: 数据驱动的印度出海电商
-    detail: _data/experiences/2019_heguan.md
+    detail:
+      md: _data/experiences/2019_heguan.md
 
   - title: 分期管家
     sub: 技术总监
@@ -129,7 +130,8 @@ main: #简历主要内容，
       - 小贷
       - 金融
     summary: P2p小额贷款的风控技术
-    detail: _data/experiences/2018_fenqi.md
+    detail:
+      md: _data/experiences/2018_fenqi.md
 
   - title: 华立集团
     sub: 架构师
@@ -138,7 +140,8 @@ main: #简历主要内容，
       - 医疗
       - 创新
     summary: 医疗模式探索
-    detail: _data/experiences/2016_huali.md
+    detail:
+      md: _data/experiences/2016_huali.md
 
   - title: 蘑菇街
     sub: 资深研发
@@ -147,7 +150,8 @@ main: #简历主要内容，
       - 数据
       - 电商
     summary: 数据平台中间件
-    detail: _data/experiences/2015_mogujie.md
+    detail:
+      md: _data/experiences/2015_mogujie.md
 
   - title: 通策医疗
     sub: 架构师
@@ -156,7 +160,8 @@ main: #简历主要内容，
       - 医疗
       - 服务化
     summary: 服务化Saas云建设
-    detail: _data/experiences/2014_tongce.md
+    detail:
+      md: _data/experiences/2014_tongce.md
 
   - title: 淘宝网
     sub: 高级开发（P6）
@@ -167,7 +172,8 @@ main: #简历主要内容，
       - 秒杀
       - 运营平台
     summary: 电商Saas云建设
-    detail: _data/experiences/2012_taobao.md
+    detail:
+      md: _data/experiences/2012_taobao.md
 
   - title: 光溪软件
     sub: 高级开发
@@ -176,7 +182,8 @@ main: #简历主要内容，
       - 欧美
       - 外包
     summary: 外包项目
-    detail: _data/experiences/2009_guanxi.md
+    detail:
+      md: _data/experiences/2009_guanxi.md
 
   - title: 常州热电
     sub: 技术员
@@ -185,7 +192,8 @@ main: #简历主要内容，
       - 国企
       - 系统维护
     summary: 信息系统维护
-    detail: _data/experiences/2008_czrd.md
+    detail:
+      md: _data/experiences/2008_czrd.md
 
 
 - type: projects
@@ -200,7 +208,7 @@ main: #简历主要内容，
     summary: 量化交易平台
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 负责人
+    sub: 技术负责人
 
   - title: 大数据用户画像
     tags:
@@ -211,7 +219,7 @@ main: #简历主要内容，
     summary: 大数据用户画像
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 负责人
+    sub: 技术负责人
 
   - title: 交易所
     tags:
@@ -223,7 +231,7 @@ main: #简历主要内容，
     summary: 交易所
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 负责人
+    sub: 技术负责人
 
   - title: 大数据反欺诈
     tags:
@@ -233,7 +241,7 @@ main: #简历主要内容，
     summary: 大数据反欺诈
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 负责人
+    sub: 技术负责人
 
   - title: 风控规则引擎
     tags:
@@ -243,7 +251,7 @@ main: #简历主要内容，
     summary: 风控规则引擎
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 负责人
+    sub: 技术负责人
 
   - title: 医疗服务化
     tags:
@@ -255,7 +263,7 @@ main: #简历主要内容，
     summary: 医疗服务化
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 负责人
+    sub: 技术负责人
 
   - title: 淘宝秒杀
     tags:
@@ -268,7 +276,7 @@ main: #简历主要内容，
     summary: 淘宝秒杀
     detail:
       md: _data/projects/2023_quantitative.md
-    sub: 负责人
+    sub: 主程
 #可继续添加更多内容
 
 #others 其他简略内容(列表)
