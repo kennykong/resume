@@ -159,7 +159,7 @@ main: #简历主要内容，
     tags:
       - 医疗
       - 服务化
-    summary: 服务化Saas云建设
+    summary: 企业服务化Saas云建设
     detail:
       md: _data/experiences/2014_tongce.md
 
@@ -171,7 +171,7 @@ main: #简历主要内容，
       - 中间件
       - 秒杀
       - 运营平台
-    summary: 电商Saas云建设
+    summary: 电商服务化Saas云建设
     detail:
       md: _data/experiences/2012_taobao.md
 
