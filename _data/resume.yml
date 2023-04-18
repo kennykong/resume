@@ -183,7 +183,7 @@ main: #简历主要内容，
       - 外包
     summary: 外包项目
     detail:
-      md: _data/experiences/2009_guanxi.md
+      md: _data/experiences/2009_guangxi.md
 
   - title: 常州热电
     sub: 技术员
