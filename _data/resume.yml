@@ -13,7 +13,7 @@ contact: #联系方式连接等3~5行
   href: 'mailto:high0048@126.com' #链接，无链接则空
   icon: 'icons/email.svg' #图标 svg文件
 - text: "0123456789"
-  href: 'tel:1234567890'
+  href: 'tel:0123456789'
   icon: 'icons/phone.svg'
 - text: "kennykong.github.io"
   href: 'https://kennykong.github.io'
