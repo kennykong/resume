@@ -218,7 +218,7 @@ main: #简历主要内容，
     duration: 2018年10月 - 2020年
     summary: 大数据用户画像
     detail:
-      md: _data/projects/2023_quantitative.md
+      md: _data/projects/2020_user_image.md
     sub: 技术负责人
 
   - title: 交易所
@@ -230,7 +230,7 @@ main: #简历主要内容，
     duration: 2018年3月 - 2019年
     summary: 交易所
     detail:
-      md: _data/projects/2023_quantitative.md
+      md: _data/projects/2019_exchange.md
     sub: 技术负责人
 
   - title: 大数据反欺诈
@@ -240,7 +240,7 @@ main: #简历主要内容，
     duration: 2017年8月 - 2019年
     summary: 大数据反欺诈
     detail:
-      md: _data/projects/2023_quantitative.md
+      md: _data/projects/2019_1_antifraud.md
     sub: 技术负责人
 
   - title: 风控规则引擎
@@ -250,7 +250,7 @@ main: #简历主要内容，
     duration: 2016年12月 - 2019年
     summary: 风控规则引擎
     detail:
-      md: _data/projects/2023_quantitative.md
+      md: _data/projects/2019_2_rule_engine.md
     sub: 技术负责人
 
   - title: 医疗服务化
@@ -262,7 +262,7 @@ main: #简历主要内容，
     duration: 2013年01月 - 2014年
     summary: 医疗服务化
     detail:
-      md: _data/projects/2023_quantitative.md
+      md: _data/projects/2014_medical_soa.md
     sub: 技术负责人
 
   - title: 淘宝秒杀
@@ -275,7 +275,7 @@ main: #简历主要内容，
     duration: 2012年01月 - 2013年
     summary: 淘宝秒杀
     detail:
-      md: _data/projects/2023_quantitative.md
+      md: _data/projects/2013_tb_spike.md
     sub: 主程
 #可继续添加更多内容
 
