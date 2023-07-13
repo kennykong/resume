@@ -211,7 +211,7 @@ main: #简历主要内容，
       md: _data/projects/2023_quantitative.md
     sub: 技术负责人
 
-  - title: 保时捷销售系统，ERP对接
+  - title: 保时捷销售系统及ERP对接
     tags:
       - 大型车企ERP
       - 睿达零售系统
