@@ -179,11 +179,12 @@ layout: default
       {% case data.lang %} 
         {% when 'zh' %}
           <li class="pc-only" ><a href="javascript:window.print()">打印 (PDF)</a></li>
-          <li>更新 @ {{ page.date | default: site.time | date: '%Y-%m-%d %H:%M:%S'}}</li>
+          <li>更新 @ {{ page.date | default: site.time | date: '%Y-%m-%d'}}</li>
         {% when 'en' %}
           <li class="pc-only" ><a href="javascript:window.print()">Print (PDF)</a></li>
           <li>Last edit @ {{ page.date | default: site.time | date: '%B %d, %Y %H:%M:%S'}}</li>
       {% endcase %}
+      <!-- '%Y-%m-%d %H:%M:%S' -->
     </ul>
   </footer>
   {% endif %}
