@@ -94,8 +94,9 @@ main: #简历主要内容，
     tags:
     - 量化
     - 数据
-    summary: 数据分析，量化投资
-    detail: 数据分析，量化投资
+    - 电商推广
+    summary: 数据分析，量化投资，电商推广
+    detail: 数据分析，量化投资，电商推广
     # open: open
     #可以设置open默认展开
 
