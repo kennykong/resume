@@ -210,6 +210,17 @@ main: #简历主要内容，
       md: _data/projects/2023_quantitative.md
     sub: 技术负责人
 
+  - title: 保时捷销售系统，ERP对接
+    tags:
+      - 大型车企ERP
+      - 睿达零售系统
+      - 库存管理
+    duration: 2020年9月 - 今
+    summary: 大型车企销售库存系统
+    detail:
+      md: _data/projects/2022_porsche_ERP.md
+    sub: 技术专家
+
   - title: 大数据用户画像
     tags:
       - 用户画像
@@ -219,6 +230,17 @@ main: #简历主要内容，
     summary: 大数据用户画像
     detail:
       md: _data/projects/2020_user_image.md
+    sub: 技术负责人
+
+  - title: 禾观零售系统及ERP
+    tags:
+      - 出海电商
+      - 出海零售系统
+      - ERP库存管理
+    duration: 2018年9月 - 今
+    summary: 出海零售系统，ERP库存管理系统
+    detail:
+      md: _data/projects/2020_1_heguan_erp.md
     sub: 技术负责人
 
   - title: 交易所
