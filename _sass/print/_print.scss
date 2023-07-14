@@ -60,7 +60,9 @@ img,
 article,
 footer,
 ul,
-li,
+li {
+     page-break-inside: avoid;
+},
 p,
 .detail,
 footer {
